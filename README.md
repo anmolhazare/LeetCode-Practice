@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|242. Valid Anagram|```Easy```|10.07.2022|||||
 |383. Ransom Note|```Easy```|10.07.2022|||||
 |387. First Unique Character in a String|```Easy```|10.07.2022|||||
 |961. N-Repeated Element in Size 2N Array|```Easy```|10.07.2022|||||
