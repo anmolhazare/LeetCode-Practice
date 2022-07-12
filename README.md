@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|206. Reverse Linked List|```Easy```|11.07.2022|||||
 |141. Linked List Cycle.cpp|```Easy```|11.07.2022|||||
 |203. Remove Linked List Elements.cpp|```Easy```|11.07.2022|||||
 |21. Merge Two Sorted Lists.cpp|```Easy```|11.07.2022|||||
