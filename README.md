@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|142. Linked List Cycle II|```Medium```|12.07.2022|||||
 |83. Remove Duplicates from Sorted List|```Easy```|12.07.2022|||||
 |206. Reverse Linked List|```Easy```|12.07.2022|||||
 |141. Linked List Cycle.cpp|```Easy```|11.07.2022|||||
