@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|287. Find the Duplicate Number|```Medium```|13.07.2022|||||
 |102. Binary Tree Level Order Traversal|```Medium```|13.07.2022|||||
 |142. Linked List Cycle II|```Medium```|12.07.2022|||||
 |83. Remove Duplicates from Sorted List|```Easy```|12.07.2022|||||
