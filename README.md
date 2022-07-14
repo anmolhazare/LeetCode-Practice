@@ -2,6 +2,12 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|94. Binary Tree Inorder Traversal|```Easy```|14.07.2022|||||
+|232. Implement Queue using Stacks|```Easy```|14.07.2022|||||
+|225. Implement Stack using Queues|```Easy```|14.07.2022|||||
+|20. Valid Parentheses|```Easy```|14.07.2022|||||
+|145. Binary Tree Postorder Traversal|```Easy```|14.07.2022|||||
+|144. Binary Tree Preorder Traversal|```Easy```|14.07.2022|||||
 |287. Find the Duplicate Number|```Medium```|13.07.2022|||||
 |102. Binary Tree Level Order Traversal|```Medium```|13.07.2022|||||
 |142. Linked List Cycle II|```Medium```|12.07.2022|||||
