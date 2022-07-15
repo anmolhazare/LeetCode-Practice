@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|104. Maximum Depth of Binary Tree|```Easy```|15.07.2022|||||
 |94. Binary Tree Inorder Traversal|```Easy```|14.07.2022|||||
 |232. Implement Queue using Stacks|```Easy```|14.07.2022|||||
 |225. Implement Stack using Queues|```Easy```|14.07.2022|||||
