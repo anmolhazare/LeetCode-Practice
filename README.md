@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|112. Path Sum|```Easy```|17.07.2022|||||
 |701. Insert into a Binary Search Tree|```Medium```|17.07.2022|||||
 |700. Search in a Binary Search Tree|```Easy```|17.07.2022|||||
 |61. Rotate List|```Medium```|17.07.2022|||||
