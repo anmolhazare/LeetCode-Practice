@@ -2,6 +2,8 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|701. Insert into a Binary Search Tree|```Medium```|17.07.2022|||||
+|700. Search in a Binary Search Tree|```Easy```|17.07.2022|||||
 |61. Rotate List|```Medium```|17.07.2022|||||
 |24. Swap Nodes in Pairs|```Medium```|17.07.2022|||||
 |226. Invert Binary Tree|```Easy```|16.07.2022|||||
