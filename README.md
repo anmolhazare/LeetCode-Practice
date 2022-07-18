@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|167. Two Sum II - Input Array Is Sorted|```Medium```|18.07.2022|||||
 |653. Two Sum IV - Input is a BST|```Easy```|18.07.2022|||||
 |101. Symmetric Tree|```Easy```|17.07.2022|||||
 |112. Path Sum|```Easy```|17.07.2022|||||
