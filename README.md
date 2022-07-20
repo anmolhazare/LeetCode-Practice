@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|143. Reorder List|```Medium```|20.07.2022|||||
 |118. Pascal's Triangle|```Easy```|19.07.2022|||||
 |86. Partition List|```Medium```|19.07.2022|||||
 |109. Convert Sorted List to Binary Search Tree|```Medium```|18.07.2022|||||
