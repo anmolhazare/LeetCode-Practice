@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|82. Remove Duplicates from Sorted List II|```Medium```|23.07.2022|||||
 |445. Add Two Numbers II|```Medium```|22.07.2022|||||
 |147. Insertion Sort List|```Medium```|21.07.2022|||||
 |1669. Merge In Between Linked Lists|```Medium```|21.07.2022|||||
