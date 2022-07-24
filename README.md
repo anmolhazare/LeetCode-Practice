@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|240. Search a 2D Matrix II|```Medium```|24.07.2022|||||
 |2095. Delete the Middle Node of a Linked List|```Medium```|24.07.2022|||||
 |82. Remove Duplicates from Sorted List II|```Medium```|23.07.2022|||||
 |445. Add Two Numbers II|```Medium```|22.07.2022|||||
