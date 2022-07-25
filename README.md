@@ -34,7 +34,7 @@
 |20. Valid Parentheses|```Easy```|14.07.2022|||||
 |145. Binary Tree Postorder Traversal|```Easy```|14.07.2022|||||
 |144. Binary Tree Preorder Traversal|```Easy```|14.07.2022|||||
-|287. Find the Duplicate Number|```Medium```|13.07.2022|||||
+|287. Find the Duplicate Number|```Medium```|13.07.2022|25.07.2022||||
 |102. Binary Tree Level Order Traversal|```Medium```|13.07.2022|||||
 |142. Linked List Cycle II|```Medium```|12.07.2022|||||
 |83. Remove Duplicates from Sorted List|```Easy```|12.07.2022|||||
