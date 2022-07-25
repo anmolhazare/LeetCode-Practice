@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|19. Remove Nth Node From End of List|```Medium```|16.06.2022|25.07.2022||||
 |921. Minimum Add to Make Parentheses Valid|```Medium```|25.07.2022|||||
 |107. Binary Tree Level Order Traversal II|```Medium```|25.07.2022|||||
 |34. Find First and Last Position of Element in Sorted Array|```Medium```|07.07.2022|25.07.2022||||
