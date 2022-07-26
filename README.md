@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|236. Lowest Common Ancestor of a Binary Tree|```Medium```|26.07.2022|||||
 |215. Kth Largest Element in an Array|```Medium```|22.06.2022|25.07.2022||||
 |19. Remove Nth Node From End of List|```Medium```|16.06.2022|25.07.2022||||
 |921. Minimum Add to Make Parentheses Valid|```Medium```|25.07.2022|||||
