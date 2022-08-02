@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|378. Kth Smallest Element in a Sorted Matrix|```Medium```|02.08.2022|||||
 |236. Lowest Common Ancestor of a Binary Tree|```Medium```|26.07.2022|||||
 |215. Kth Largest Element in an Array|```Medium```|22.06.2022|25.07.2022||||
 |19. Remove Nth Node From End of List|```Medium```|16.06.2022|25.07.2022||||
