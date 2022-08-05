@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|17. Letter Combinations of a Phone Number|```Medium```|06.08.2022|||||
 |137. Single Number II|```Medium```|05.08.2022|||||
 |378. Kth Smallest Element in a Sorted Matrix|```Medium```|02.08.2022|||||
 |236. Lowest Common Ancestor of a Binary Tree|```Medium```|26.07.2022|||||
