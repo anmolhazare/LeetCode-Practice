@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|347. Top K Frequent Elements|```Medium```|07.08.2022|||||
 |49. Group Anagrams|```Medium```|07.08.2022|||||
 |17. Letter Combinations of a Phone Number|```Medium```|06.08.2022|||||
 |137. Single Number II|```Medium```|05.08.2022|||||
