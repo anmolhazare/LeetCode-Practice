@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|15. 3Sum.cpp|```Medium```|09.08.2022|||||
 |125. Valid Palindrome|```Easy```|09.08.2022|||||
 |347. Top K Frequent Elements|```Medium```|07.08.2022|||||
 |49. Group Anagrams|```Medium```|07.08.2022|||||
