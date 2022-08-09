@@ -26,7 +26,7 @@
 |86. Partition List|```Medium```|19.07.2022|22.07.2022||||
 |109. Convert Sorted List to Binary Search Tree|```Medium```|18.07.2022|||||
 |98. Validate Binary Search Tree|```Medium```|18.07.2022|||||
-|167. Two Sum II - Input Array Is Sorted|```Medium```|18.07.2022|||||
+|167. Two Sum II - Input Array Is Sorted|```Medium```|18.07.2022|09.08.2022||||
 |653. Two Sum IV - Input is a BST|```Easy```|18.07.2022|||||
 |101. Symmetric Tree|```Easy```|17.07.2022|||||
 |112. Path Sum|```Easy```|17.07.2022|||||
