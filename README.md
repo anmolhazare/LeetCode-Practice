@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|42. Trapping Rain Water|```Hard```|09.08.2022|||||
 |11. Container With Most Water|```Medium```|09.08.2022|||||
 |15. 3Sum.cpp|```Medium```|09.08.2022|||||
 |125. Valid Palindrome|```Easy```|09.08.2022|||||
