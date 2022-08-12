@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|543. Diameter of Binary Tree|```Easy```|12.08.2022|||||
 |106. Construct Binary Tree from Inorder and Postorder Traversal|```Medium```|12.08.2022|||||
 |105. Construct Binary Tree from Preorder and Inorder Traversal|```Medium```|12.08.2022|||||
 |42. Trapping Rain Water|```Hard```|09.08.2022|||||
