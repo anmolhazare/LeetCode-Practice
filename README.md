@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|25. Reverse Nodes in k-Group|```Hard```|21.08.2022|||||
 |234. Palindrome Linked List|```Easy```|21.08.2022|||||
 |160. Intersection of Two Linked Lists|```Easy```|21.08.2022|||||
 |543. Diameter of Binary Tree|```Easy```|12.08.2022|||||
