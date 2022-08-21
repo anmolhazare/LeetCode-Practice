@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|160. Intersection of Two Linked Lists|```Easy```|21.08.2022|||||
 |543. Diameter of Binary Tree|```Easy```|12.08.2022|||||
 |106. Construct Binary Tree from Inorder and Postorder Traversal|```Medium```|12.08.2022|||||
 |105. Construct Binary Tree from Preorder and Inorder Traversal|```Medium```|12.08.2022|||||
