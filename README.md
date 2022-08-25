@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|295. Find Median from Data Stream|```Hard```|25.08.2022|||||
 |547. Number of Provinces|```Medium```|22.08.2022|||||
 |25. Reverse Nodes in k-Group|```Hard```|21.08.2022|||||
 |234. Palindrome Linked List|```Easy```|21.08.2022|||||
