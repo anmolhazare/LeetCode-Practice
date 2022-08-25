@@ -2,6 +2,7 @@
 
 |Problems|Tag|First Prac|Second Prac|Third Prac|Fourth Prac|Fifth Prac|
 |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|2150. Find All Lonely Numbers in the Array|```Medium```|25.08.2022|||||
 |1143. Longest Common Subsequence|```Medium```|25.08.2022|||||
 |295. Find Median from Data Stream|```Hard```|25.08.2022|||||
 |547. Number of Provinces|```Medium```|22.08.2022|||||
