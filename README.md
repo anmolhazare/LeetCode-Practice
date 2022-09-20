@@ -2,4 +2,4 @@
 
 |Sequence|Topic Name|Link|
 |:--------:|:--------:|:--------:|
-|001. |```Linked List```|[Link]()|
+|026. |```Linked List```|[Link]()|
