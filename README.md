@@ -2,4 +2,4 @@
 
 |Sequence|Topic Name|Link|
 |:--------:|:--------:|:--------:|
-|026. |```Linked List```|[Link]()|
+|026. |```Linked List```|[Link](https://leetcode.com/tag/linked-list/)|
